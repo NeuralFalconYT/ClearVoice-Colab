@@ -1,0 +1,19 @@
+soundfile
+tqdm
+scipy
+numpy
+einops
+rotary_embedding_torch
+torchinfo
+packaging
+typing
+yamlargparse
+librosa
+pesq
+python_speech_features
+scenedetect
+gradio>=5.8.0
+click
+# torchvision
+# torchaudio
+#opencv-python
